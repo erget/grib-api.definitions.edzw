@@ -1,0 +1,12 @@
+[submodule "grib1.local.edzw"]
+	path = grib1.local.edzw
+	url = https://github.com/erget/grib1.local.edzw.git
+[submodule "grib1.localConcepts.edzw"]
+	path = grib1.localConcepts.edzw
+	url = https://github.com/erget/grib1.localConcepts.edzw.git
+[submodule "grib2.local.edzw"]
+	path = grib2.local.edzw
+	url = https://github.com/erget/grib2.local.edzw.git
+[submodule "grib2.localConcepts.edzw"]
+	path = grib2.localConcepts.edzw
+	url = https://github.com/erget/grib2.localConcepts.edzw.git
